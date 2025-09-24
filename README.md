@@ -1,5 +1,5 @@
 # Laborat-rio-3
-# Nome dos Desenvolvedores e R.A.:
+# Nome dos Desenvolvedores:
 Gabriel Grola
 
 # Descrição do projeto
