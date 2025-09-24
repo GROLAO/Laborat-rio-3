@@ -1,7 +1,6 @@
 # Laborat-rio-3
 # Nome dos Desenvolvedores e R.A.:
-Gabriel Oliveira Grola R.A.: 202120716
-Rafael Luis dos Santos R.A.: 202214348
+Gabriel Grola
 
 # Descrição do projeto
 
